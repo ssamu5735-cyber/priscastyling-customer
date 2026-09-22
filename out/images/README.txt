@@ -1,0 +1,1 @@
+This folder is intentionally empty. The previous stock photos here were watermarked Unsplash+ samples and were removed. Add product photos through the admin dashboard (they upload to Appwrite Storage), and drop a logo.svg here once your logo is ready.
