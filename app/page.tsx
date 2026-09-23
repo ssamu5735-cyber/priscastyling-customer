@@ -1,2 +1,5 @@
-import PublicStore from '@/components/PublicStore';
-export default function Page(){ return <PublicStore/>; }
+import LandingPage from '@/components/LandingPage';
+
+export default function Page() {
+  return <LandingPage />;
+}
